@@ -1,1 +1,1 @@
-Este es una prueba de como crear un repositorio y cronarlo desde github al computador
+Este es una prueba de como crear un repositorio y cronarlo desde github a mi computador
